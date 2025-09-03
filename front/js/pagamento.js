@@ -13,13 +13,3 @@ function calcularDias(dataInicio, dataFim) {
     const dias = calcularDias(checkin, checkout);
     const total = dias * precoBase;
     const valorParcela = total / parcelas;
-
-    document.getElementById('resumo').innerHTML = `
-        <p><strong>Quarto:</strong> Suíte Standard</p>
-        <p><strong>Data de entrada:</strong> ${checkin}</p>
-        <p><strong>Data de saída:</strong> ${checkout}</p>
-        <p><strong>Total de dias:</strong> ${dias}</p>
-        <p><strong>Preço por noite:</strong> R$ ${precoBase.toFixed(2)}</p>
-        <p><strong>Total:</strong> R$ ${total.toFixed(2)}</p>
-        <p><strong>Parcelamento:</strong> ${parcelas}x de R$ ${valorParcela.toFixed(2)}</p>
-    `;

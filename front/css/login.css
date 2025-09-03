@@ -120,7 +120,7 @@ header a:hover {
     box-shadow: 0 0 8px rgb(240, 32, 118);
 }
 
-.logout {
+.btn-login {
     background-color: rgb(240, 32, 118);
     color: white;
     border: none;
@@ -134,7 +134,7 @@ header a:hover {
     text-decoration: none;
 }
 
-.logout:hover {
+.btn-login:hover {
     color: rgb(236, 230, 230);
     background-color: rgb(200, 20, 90);
     transform: scale(1.05);

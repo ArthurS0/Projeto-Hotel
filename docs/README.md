@@ -62,6 +62,24 @@ front/
 
 O Hazbin Hotel é o lugar perfeito para quem busca uma experiência única e inesquecível. Oferecemos uma ampla gama de serviços e comodidades, incluindo quartos confortáveis, restaurantes deliciosos, entretenimento ao vivo e muito mais.
 
+
+## Testes realizados
+
+### Teste de cadastro e login
+<img src="../docs/cadastro.png" alt="print" width="500"/>
+<img src="../docs/login.png" alt="print" width="500"/>
+
+### Teste de pagamento
+<img src="../docs/pagamento.png" alt="print" width="500"/>
+
+### Testes da Api
+<img src="../docs/createusers.png" alt="print" width="500"/>
+<img src="../docs/readusers.png" alt="print" width="500"/>
+<img src="../docs/createtelefone.png" alt="print" width="500"/>
+<img src="../docs/createquarto.png" alt="print" width="500"/>
+<img src="../docs/createreserva.png" alt="print" width="500"/>
+<img src="../docs/login.api.png" alt="print" width="500"/>
+
 ---
 
 <p align="center">
