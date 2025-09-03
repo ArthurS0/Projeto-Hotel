@@ -110,7 +110,9 @@ header a:hover {
 }
 
 .pagamento-container input[type="text"],
-.pagamento-container input[type="email"] {
+.pagamento-container input[type="email"],
+.pagamento-container input[type="tel"],
+.pagamento-container input[type="number"] {
     width: 97%;
     padding: 12px;
     margin-bottom: 18px;

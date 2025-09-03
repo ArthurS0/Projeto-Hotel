@@ -319,3 +319,61 @@ footer a:hover {
     margin-top: 10px;
     text-shadow: 1px 1px 2px rgb(240, 32, 118);
 }
+
+.container-devs {
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 15px;
+    box-shadow: 1px 4px 4px 4px rgb(240, 32, 118);
+    color: white;
+    padding: 40px;
+    margin: 50px auto;
+    max-width: 1500px;
+    font-family: 'Mr Darcy W01 Regular', Arial, sans-serif;
+    line-height: 2.0;
+    text-align: center;
+}
+
+.devs-titulo {
+    font-size: 45px;
+    color: white;
+    text-shadow: rgb(240, 32, 118) 2px 2px 4px,
+                 rgb(240, 32, 118) -2px -2px 4px,
+                 rgb(240, 32, 118) 2px -2px 4px,
+                 rgb(240, 32, 118) -2px 2px 4px;
+    margin-bottom: 30px;
+}
+
+.devs-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px;
+    justify-items: center;
+}
+
+.dev-card {
+    text-align: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.dev-card img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 15px;
+    border: 2px solid rgb(240, 32, 118);
+    box-shadow: 0 0 15px rgba(240, 32, 118, 0.5);
+    transition: transform 0.3s ease;
+}
+
+.dev-card:hover img {
+    transform: scale(1.1);
+}
+
+.dev-card p {
+    color: white;
+    margin-top: 10px;
+    font-family: 'Mr Darcy W01 Regular';
+    font-size: 23px;
+    text-shadow: 1px 1px 2px rgb(240, 32, 118);
+}
