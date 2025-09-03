@@ -65,5 +65,5 @@ O Hazbin Hotel é o lugar perfeito para quem busca uma experiência única e ine
 ---
 
 <p align="center">
-  <img src="../front/images/hazbin.png" alt="Hazbin Hotel" width="200"/>
+  <img src="../front/images/hazbin.png" alt="Hazbin Hotel" width="500"/>
 </p>
