@@ -1,4 +1,4 @@
-# Hazbin Hotel
+# 🏨 Hazbin Hotel
 
 Bem-vindo ao projeto **Hazbin Hotel**! Este é um sistema completo para gerenciamento de hotel, com interface web para clientes e administração, desenvolvido por uma equipe dedicada de estudantes.
 
