@@ -196,3 +196,10 @@ footer a:hover {
     background-color: rgb(200, 20, 90);
     transform: scale(1.05);
 }
+
+.code-image {
+    display: block;
+    margin: 20px auto;
+    max-width: 300px;
+    height: auto;
+}
