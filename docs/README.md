@@ -4,14 +4,14 @@ Bem-vindo ao projeto **Hazbin Hotel**! Este é um sistema completo para gerencia
 
 ## 📸 Imagens Promocionais
 
-Veja algumas imagens dos nossos eventos e instalações:
+Veja algumas imagens de nossa instalação:
 
 <p align="center">
-  <img src="../front/images/ship.png" alt="Evento Promocional" width="250"/>
   <img src="../front/images/hotel1.png" alt="Hotel 1" width="250"/>
+  <br>
   <img src="../front/images/hotel2.png" alt="Hotel 2" width="250"/>
+  <br>
   <img src="../front/images/hotel3.png" alt="Hotel 3" width="250"/>
-  <img src="../front/images/evento1.png" alt="Evento 1" width="250"/>
 </p>
 
 ## 👨‍💻 Equipe de Desenvolvedores
