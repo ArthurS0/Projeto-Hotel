@@ -7,10 +7,11 @@ Bem-vindo ao projeto **Hazbin Hotel**! Este é um sistema completo para gerencia
 Veja algumas imagens dos nossos eventos e instalações:
 
 <p align="center">
-  <img src="front/images/ship.png" alt="Evento Promocional" width="250"/>
-  <img src="front/images/hotel1.png" alt="Hotel 1" width="250"/>
-  <img src="front/images/hotel2.png" alt="Hotel 2" width="250"/>
-  <img src="front/images/evento1.png" alt="Evento 1" width="250"/>
+  <img src="../front/images/ship.png" alt="Evento Promocional" width="250"/>
+  <img src="../front/images/hotel1.png" alt="Hotel 1" width="250"/>
+  <img src="../front/images/hotel2.png" alt="Hotel 2" width="250"/>
+  <img src="../front/images/hotel3.png" alt="Hotel 3" width="250"/>
+  <img src="../front/images/evento1.png" alt="Evento 1" width="250"/>
 </p>
 
 ## 👨‍💻 Equipe de Desenvolvedores
@@ -18,10 +19,10 @@ Veja algumas imagens dos nossos eventos e instalações:
 Conheça quem fez este projeto acontecer:
 
 <p align="center">
-  <img src="front/images/jesse.jpg" alt="Jessé" width="120"/>
-  <img src="front/images/vitin.jpg" alt="Vitinho" width="120"/>
-  <img src="front/images/arthur.jpg" alt="Arthur" width="120"/>
-  <img src="front/images/maradona.jpg" alt="Diego" width="120"/>
+  <img src="../front/images/jesse.jpg" alt="Jessé" width="120"/>
+  <img src="../front/images/vitin.jpg" alt="Vitinho" width="120"/>
+  <img src="../front/images/arthur.jpg" alt="Arthur" width="120"/>
+  <img src="../front/images/maradona.jpg" alt="Diego" width="120"/>
 </p>
 
 - **Jessé** – Front-end
@@ -47,7 +48,7 @@ front/
 ## 🚀 Como rodar o projeto
 
 1. Clone este repositório.
-2. Abra o arquivo [`front/html/pagina_inicial.html`](front/html/pagina_inicial.html) no seu navegador para acessar a interface principal.
+2. Abra o arquivo [`../front/html/pagina_inicial.html`] no seu navegador para acessar a interface principal.
 
 ## 💡 Funcionalidades
 
@@ -64,5 +65,5 @@ O Hazbin Hotel é o lugar perfeito para quem busca uma experiência única e ine
 ---
 
 <p align="center">
-  <img src="front/images/hazbin.png" alt="Hazbin Hotel" width="200"/>
+  <img src="../front/images/hazbin.png" alt="Hazbin Hotel" width="200"/>
 </p>
